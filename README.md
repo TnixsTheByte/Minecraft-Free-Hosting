@@ -2,7 +2,7 @@
 
 ## - **Önerilenler**
 - Ram = 0-5 Oyuncu için Modsuz bir şekilde 2-4GB Ram yeterli olacaktır./Eğer Mod yüklemek isterseniz 4-8GB Ram sizin için yeterli olacaktır.
-- Kapasite = 0-5 Oyuncu için 5-10GB Ram iyi olacaktır
+- Kapasite = 0-5 Oyuncu için 3-5GB Ram iyi olacaktır
 
 ## | İsim | RAM | Kapasite | Lokasyon | İşlemci | 24/7 | Notlar |
 
