@@ -4,9 +4,11 @@
 - Ram = 0-5 Oyuncu için Modsuz bir şekilde 2-4GB Ram yeterli olacaktır./Eğer Mod yüklemek isterseniz 4-8GB Ram sizin için yeterli olacaktır.
 - Kapasite = 0-5 Oyuncu için 5-10GB Ram iyi olacaktır
 
-## | İsim | RAM | Kapasite | Lokasyon | 24/7 | Notlar |
+## | İsim | RAM | Kapasite | Lokasyon | İşlemci | 24/7 | Notlar |
 
 #### | MagmaNode | 2GB | 5GB | Germany | 5.7GHz (Ryzen 9 7950X 3D) | ❌ | Güzel ancak 7/24 değil |
-#### | FalixNodes | 4.5GB (Dinamik) | 10GB | Germany | 3.9GHz (Xeon Gold 5412U) | ✔ | Küçük Sunucular için ideal |
+#### | FalixNodes | 4.5GB (Dinamik) | 10GB | Germany | 3.9GHz (Xeon Gold 5412U) | ❌ | Küçük Sunucular için ideal |
 #### | MooNodes | 6GB | 30GB | Germany/Austria | Bilinmiyor | ✔ | Yorum yok |
 #### | SlimeNodes | 1.5GB | 6GB | USA | Bilinmiyor | ✔ | Yorum yok |
+#### | SkyMc | 3GB | 4GB | Hollanda | Bilinmiyor | ✔ | Her 60dk yenilemeniz gerekiyor |
+#### | ScalaCube | 6GB | 21GB | Bilinmiyor | Bilinmiyor | ❌ | Sadece 2 oyuncu slotu var, modları desteklemiyor |
